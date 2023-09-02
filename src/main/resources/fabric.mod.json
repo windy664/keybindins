@@ -12,7 +12,7 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "org.windy.keybindins.client.MinecraftClientMixin"
+      "org.windy.keybindins.KeybindinsInitializer"
     ]
   },
   "depends": {
