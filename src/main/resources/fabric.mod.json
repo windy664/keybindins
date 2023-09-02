@@ -9,14 +9,10 @@
     "repo": "https://github.com/Administrator/keybindins"
   },
   "license": "All-Rights-Reserved",
-  "icon": "assets/keybindins/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": [
       "org.windy.keybindins.client.MinecraftClientMixin"
-    ],
-    "main": [
-      "org.windy.keybindins.MinecraftClientMixin"
     ]
   },
   "depends": {
